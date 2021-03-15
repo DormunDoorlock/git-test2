@@ -9,5 +9,8 @@ int main(){
 	printf("Math=%d\n",maht);
 	printf("English=%d\n",english);
         printf("Society=%d\n",society);
+        int science=100;
+        printf("Science=%d\n",science);
+
 	return 0;
 }
